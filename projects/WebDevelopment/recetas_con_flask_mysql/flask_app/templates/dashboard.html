@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>User Dashboard</title>
+        <!-- Materialize CSS -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+        <!-- Material Icons-->
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    </head>
+    <body>
+        <nav>
+            <div class="nav-wrapper green darken-4">
+                <div class="brand-logo" style="padding-left: 12px;">
+                    Welcome {{session['first_name']}}!!!
+                </div>
+                <ul id="nav-mobile" class="right">
+                    <li><a href="/recipes/new">Create Recipe</a></li>
+                    <li><a href="/logout">Logout</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="container">
+            <table class="striped">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Under Thirty Minutes?</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for recipe in user.recipes %}
+                        {% if recipe.name != none %}
+                            <tr>
+                                <td>{{recipe.name}}</td>
+
+                                {% if recipe.under_thirty == 1 %}
+                                    <td>Yes</td>
+                                {% else %}
+                                    <td>No</td>
+                                {% endif %}
+
+                                <td>
+                                    <a href="/recipes/{{recipe.id}}">View Instructions</a>
+                                    {% if (session['user_id'] == recipe.user_id) %}
+                                        <span>|</span>
+                                        <a href="/recipes/edit/{{recipe.id}}">Edit</a>
+                                        <span>|</span>
+                                        <a href="/recipes/delete/{{recipe.id}}">Delete</a>
+                                    {% endif %}
+                                </td>
+                            </tr>
+                        {% endif %}
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+
+        <!-- Materialize JS -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    </body>
+</html>

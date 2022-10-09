@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Login and Registration</title>
+        <!-- Materialize CSS -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+        <!-- Material Icons-->
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    </head>
+    <body>
+        <div class="container">
+            <div class="row" style="margin-top: 10px;">
+
+                <!-- Registration Column -->
+                <div class="col s4 offset-s1 blue-grey darken-3">
+
+                    <h3 class="blue-text">Register</h3>
+                    <!-- Error Flash Messages -->
+                    <div class="row red white-text">
+                        {% with messages = get_flashed_messages(category_filter=["registration"]) %}
+                            {% if messages %}
+                                <ul>
+                                    {% for message in messages %}
+                                        <li>{{ message }}</li>
+                                    {% endfor %}
+                                </ul>
+                            {% endif %}
+                        {% endwith %}
+                    </div>
+                    <!-- Registration Form -->
+                    <form action="/register/user" method="POST">
+
+                        <label for="first_name">First Name:</label>
+                        <input type="text" name="first_name" id="first_name" class="white-text">
+
+                        <label for="last_name">Last Name:</label>
+                        <input type="text" name="last_name" id="last_name" class="white-text">
+
+                        <label for="email">Email:</label>
+                        <input type="email" name="email" id="email" class="white-text">
+
+                        <label for="password">Password:</label>
+                        <input type="password" name="password" id="password" class="white-text">
+
+                        <label for="pass_confirm">Confirm Password:</label>
+                        <input type="password" name="confirm_password" id="confirm_password" class="white-text">
+
+                        <button class="btn btn-large waves-effect waves-light blue" type="submit" name="action" style="margin-bottom: 5px;">Register
+                            <i class="material-icons right">send</i>
+                        </button>
+                    </form>
+                </div>
+
+                <!-- Login Column -->
+                <div class="col s4 offset-s1 blue-grey darken-3">
+                    <h3 class="green-text">Login</h3>
+                    <!-- Error Flash Messages -->
+                    <div class="row red white-text">
+                        {% with messages = get_flashed_messages(category_filter=["login"]) %}
+                            {% if messages %}
+                                <ul>
+                                    {% for message in messages %}
+                                        <li>{{ message }}</li>
+                                    {% endfor %}
+                                </ul>
+                            {% endif %}
+                        {% endwith %}
+                    </div>
+                    <!-- Login Form -->
+                    <form action="/login" method="POST">
+
+                        <label for="email">Email:</label>
+                        <input type="text" name="email" id="email" class="white-text">
+
+                        <label for="password">Password:</label>
+                        <input type="password" name="password" id="password" class="white-text">
+
+                        <button class="btn btn-large waves-effect waves-light green" type="submit" name="action" style="margin-bottom: 5px;">Login
+                            <i class="material-icons right">login</i>
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!-- Materialize JS -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    </body>
+</html>

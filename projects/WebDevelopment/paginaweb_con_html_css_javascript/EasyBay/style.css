@@ -1,0 +1,161 @@
+*{
+    /* outline: dotted red; */
+}
+
+#wrapper{
+    width: 60%;
+    margin: 0px auto;
+}
+
+#nav a{
+    text-decoration: none;
+    color: #000;
+}
+
+#header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#nav-title{
+    display: flex;
+    align-items: center;
+    
+}
+#action{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#cart{
+    width: 30%;
+    /* margin-left: 20px; */
+}
+
+#logo{
+    background-color: #00BBB4;
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+#links{
+    display: flex;
+    justify-content: space-between ; 
+    padding: 0px;
+    list-style-type: none;
+    margin: 10px 0px;
+
+}
+hr{
+    /* border-radius: 25px; */
+    height: 3px;
+    background-color: #000;
+}
+#container{
+    text-align: center;
+}
+#about{
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    margin-bottom: 5%;
+    
+    
+}
+
+.discover{   
+    padding: 2% 2% 0% 2%;
+}
+.discover > p{
+    margin: 5% 0% 10% 0%;
+}
+
+.discover p{
+    font-size: 33px;
+}
+#content{
+    display: flex;
+    /* width: 60%; */
+    margin-right: 3%;
+    
+}
+#side-content .img{
+    margin-bottom: 10%;
+}
+#side-content .more{
+    padding: 5%;
+}
+.more{
+    justify-content: center;
+    display: flex;
+    align-items: center;    
+}
+
+.bg-g{
+    background-color: #00BBB4;
+}
+.img{
+    width: 300px;
+}
+.icon{
+    width: 40px; 
+}
+
+#row{
+    display: flex;
+    justify-content: space-between;
+    background-color: #AAE8D8;
+}
+.card{
+    padding: 5% 1% ;
+}
+.plants{
+    width: 100%;
+    border-radius: 50%;
+}
+
+.btn{
+    box-shadow: 3px 3px 0px 1px #000;
+    border: 3px solid #000;
+    background-color: #00BBB4;
+    color: #fff;
+    font-size: large;
+    
+}
+#cookies p{
+    width: 75%;
+}
+#cookies{
+    
+    width: 53%;
+    border: 3px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1% 3%;
+    position: fixed;
+    background-color: #fff;
+    bottom: 10px;
+
+}
+
+#icon {
+    padding-top: 5px;
+    width: 20px;
+    right: 31%;
+}
+
+.input-field {
+    width: 93%;
+    border-radius: 25px;
+    padding: 1% 3%;
+}
+
+.input-icons {
+    width: 60%;
+}
+.input-icons img#icon {
+    position: absolute;
+    
+}

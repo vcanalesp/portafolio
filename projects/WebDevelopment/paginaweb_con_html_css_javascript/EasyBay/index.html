@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- dev by Esraa Alsharit 
+in 31/5/2022
+12:58 pm -->
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="wrapper">
+        <div id="nav">
+            <div id="header">
+                <div id="nav-title">
+                    <img src="images/assets/leaf.png" alt="logo" id="logo">
+                    <h1>EasyBay</h1>
+                </div>
+                <!-- <input type="text" placeholder="Search for anything" size="80" id="search"> -->
+                <form class="input-icons">
+                        <img src="images/assets/search-dark.png" alt="search" id="icon">
+                        <input class="input-field" type="text" placeholder="Search for anything">
+                    
+                </form>
+                
+                <div id="action">
+                    <a href="#">Sign In</a>
+                    <img src="images/assets/cart-dark.png" onclick="cart();" alt="cart" id="cart">
+                </div>
+            </div>
+            <div id="links-nav">
+                <ul id="links">
+                    <li><a href="#">Aeonium</a></li>
+                    <li><a href="#">Andormischus</a></li>
+                    <li><a href="#">Agave</a></li>
+                    <li><a href="#">Aloe</a></li>
+                    <li><a href="#">Anacampseros</a></li>
+                    <li><a href="#">Aristaloe</a></li>
+                    <li><a href="#">More ...</a></li>
+                </ul>
+            </div>
+            <hr>
+        </div>
+
+        <div id="container">
+            <h2>Your Source for Serious Succulent Specialties</h2>
+            <div id="about">
+                <div id="content">
+                    <div class=" discover bg-g">
+                        <p>Discover succ-ulent varieties one pot or rack atatime!</p>
+                        <div class="more">
+                            <p>Discover </p>
+                            <img src="images/assets/arrow-light.png" class="icon" alt="arrow">
+                        </div>
+                    </div>
+                    <img src="images/assets/succulents-1.jpg" onmouseover="over(this);" onmouseout="out(this);"
+                        alt="succulents" class="img">
+                </div>
+
+                <div id="side-content">
+
+                    <img src="images/assets/aloe-m.jpg" alt="aloe" class="img">
+
+
+                    <div class="bg-g more">
+                        <p>Soothing aloe </p>
+                        <img src="images/assets/arrow-light.png" class="icon" alt="arrow">
+                    </div>
+                </div>
+
+            </div>
+
+            <div id="row">
+                <div class="card">
+                    <img src="images/assets/aeonium-s.jpg" alt="aeonium" class="plants">
+                    <p>Aeonium</p>
+                </div>
+                <div class="card">
+                    <img src="images/assets/aloe-s.jpg" alt="aloe" class="plants">
+                    <p>Agave</p>
+                </div>
+                <div class="card">
+                    <img src="images/assets/cactus-s.jpg" alt="cactus" class="plants">
+                    <p>Cactus</p>
+                </div>
+                <div class="card">
+                    <img src="images/assets/echeveria-s.jpg" alt="echeveria" class="plants">
+                    <p>Echeveria</p>
+                </div>
+                <div class="card">
+                    <img src="images/assets/sedum-s.jpg" alt="sedum" class="plants">
+                    <p>Sedum</p>
+                </div>
+                <div class="card">
+                    <img src="images/assets/sempervivum-s.jpg" alt="sempervivum" class="plants">
+                    <p>Sempervivum</p>
+                </div>
+            </div>
+
+        </div>
+
+        <div id="cookies">
+            <img src="images/assets/alert-dark.png" alt="alert icon">
+            <p>This site makes use of third-party cookies,by clicking"Iaccept"
+                you agree to the terms outlined in our <a href="#">cookie policy</a>.</p>
+            <button class="btn" onclick="hide(this);">I Accept</button>
+        </div>
+    </div>
+</body>
+
+</html>
