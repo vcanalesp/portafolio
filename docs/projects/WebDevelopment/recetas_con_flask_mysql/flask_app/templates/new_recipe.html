@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>New Recipe</title>
+        <!-- Materialize CSS -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+        <!-- Material Icons-->
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    </head>
+    <body>
+        <nav>
+            <div class="nav-wrapper green darken-4">
+                <div class="brand-logo" style="padding-left: 12px;">
+                    Add New Recipe
+                </div>
+                <ul id="nav-mobile" class="right">
+                    <li><a href="/dashboard">Dashboard</a></li>
+                    <li><a href="/logout">Logout</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="container">
+            <div class="row red white-text">
+                {% with messages = get_flashed_messages(category_filter=["recipes"]) %}
+                    {% if messages %}
+                        <ul>
+                            {% for message in messages %}
+                                <li>{{ message }}</li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+                {% endwith %}
+            </div>
+            <form action="/recipes/submit" method="POST">
+
+                <label for="name">Name:</label>
+                <input type="text" name="name" id="name">
+
+                <label for="description">Description:</label>
+                <textarea name="description" id="description" class="materialize-textarea"></textarea>
+
+                <label for="instruction">Instructions:</label>
+                <textarea name="instruction" id="instruction" class="materialize-textarea"></textarea>
+
+                <label for="date_made">Date Made:</label>
+                <input type="date" name="date_made" id="date_made">
+
+                <label for="under_thirty">Under Thirty Minutes?</label>
+                <p>
+                    <label>
+                        <input type="radio" name="under_thirty" id="under_thirty_yes" value="1" checked>
+                        <span>Yes</span>
+                    </label>
+                </p>
+                <p>
+                    <label>
+                        <input type="radio" name="under_thirty" id="under_thirty_no" value="0">
+                        <span>No</span>
+                    </label>
+                </p>
+
+                <button class="btn btn-large waves-effect waves-light green darken-2" type="submit" name="action" style="margin-bottom: 5px;">Create New Recipe
+                    <i class="material-icons right">add</i>
+                </button>
+            </form>
+        </div>
+
+
+        <!-- Materialize JS -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    </body>
+</html>

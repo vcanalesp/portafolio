@@ -1,0 +1,100 @@
+# Copyright (c) 2016-2022 Martin Donath <martin.donath@squidfunk.com>
+
+# Project information
+site_name: Valeska Canales Pozo
+site_url: https://github.com/vcanalesp/portafolio
+site_author: Valeska Canales
+site_description:
+
+# Repository
+repo_name: vcanalesp/portafolio
+repo_url: https://github.com/vcanalesp/portafolio
+edit_uri: ''
+
+# Markdown extensions
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+
+# Theme
+theme:
+  name: material
+  language: es
+  logo: images/logo.bmp
+  favicon: images/vc_logo.gif
+  palette:
+  - media: "(prefers-color-scheme: light)"
+    scheme: default
+    primary: pink
+    accent: amber
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    primary: black
+    accent: pink
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/vcanalesp
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/vcanalesp
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/vcanalesp/
+    - icon: fontawesome/solid/globe
+      link: https://vcanalesp.github.io/portfolio/
+
+# Plugins
+plugins:
+  - mkdocs-jupyter:
+      kernel_name: python3
+  - search
+
+ #TOC
+nav:
+    - Home:
+        - index.md
+        - Tech Stack:  about_me/stack.md
+        - Certificaciones:  about_me/certification.md
+        - Educación:  about_me/education.md
+        - Experiencia Laboral:  about_me/work_exp.md
+        - Honores y Reconocimientos:  about_me/awards.md
+    - Proyectos:
+        - projects/index.md
+        - Desarrollo Web:
+            - projects/WebDevelopment/recetas.md
+            - projects/WebDevelopment/paginaweb.md
+        - Data Science:
+            - projects/DataScience/05_eda/eda.ipynb
+            - projects/DataScience/04_visualizacion/visualizacion.ipynb
+            - projects/DataScience/03_pandas/pandas.ipynb
+            - projects/DataScience/02_numpy/numpy.ipynb
+            - projects/DataScience/01_python/python.ipynb
+
+
