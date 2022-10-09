@@ -19,4 +19,4 @@ El objetivo de este proyecto es replicar la siguiente página web utilizando **H
 - Todo el texto debe estar en formato **HTML** a menos que sea parte de la imagen. Revise las imágenes descargables para ver qué texto ya proporcionan.
 - Los botones/enlaces deben estar en **HTML** y no deben agregarse como imágenes.
 
-> **Nota**: El proyecto completo lo puede encontrar en el siguiente [link]().
+> **Nota**: El proyecto completo lo puede encontrar en el siguiente [link](https://github.com/vcanalesp/portafolio/tree/main/docs/projects/WebDevelopment/paginaweb_con_html_css_javascript).

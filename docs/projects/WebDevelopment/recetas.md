@@ -21,4 +21,4 @@ El objetivo de este proyecto es replicar la siguiente página web utilizando:
 - Crea una aplicación Flask y utiliza el patrón de diseño **MVC** y **POO** para hacer que la aplicación sea funcional.
 - Lee atentamente e implementa las funciones alistadas en las notas adhesivas.
 
-> **Nota**: El proyecto completo lo puede encontrar en el siguiente [link]().
+> **Nota**: El proyecto completo lo puede encontrar en el siguiente [link](https://github.com/vcanalesp/portafolio/tree/main/docs/projects/WebDevelopment/recetas_con_flask_mysql).
