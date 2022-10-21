@@ -26,6 +26,6 @@ style="float:left; width:200px; height:200px;">
 - **Name**: Valeska Canales Pozo
 - **Phone**: +56 9 8459 5078
 - **Email**: valeska.canales.p@gmail.com
-- **Curriculum Vitae**: [link](https://gitlab.com/vcanalesp/cv/-/jobs/3113035840/artifacts/file/cv_espanol.pdf)
+- **Curriculum Vitae**: [link](https://gitlab.com/vcanalesp/cv/-/jobs/3209363097/artifacts/file/cv_espanol.pdf)
 
 
