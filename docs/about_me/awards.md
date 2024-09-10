@@ -1,22 +1,56 @@
+## Más Info
+
+### Reconocimientos
+
 <p>
-<img src="https://www.learnchile.cl/wp-content/uploads/2019/05/logo-inacap.jpg" alt="Smiley face image"
-style="float:left; width:65px; height:52px;">
+<img src="../../images/about_me/inacap.png" alt="Smiley face image"
+style="float:left; width:85px; height:52px;">
 <span style="vertical-align:bottom">
-&nbsp <strong>  
-Beca - Habilidades Tech: Potenciando Mujeres en la Nube</strong> <br>
-&nbsp INACAP - Amazon Web Services <br>
-&nbsp 2022
+&nbsp <strong>  Inacap </strong> <br>
+&nbsp Valparaíso, 2022 <br>
 </span>
 </p>
+
+* Habilidades Tech: Potenciando Mujeres en la Nube – AWS
+
 <hr size="30">
 
 <p>
-<img src="data:image/png;base64,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" alt="Smiley face image"
-style="float:left; width:65px; height:65px;">
+<img src="../../images/about_me/bc.png" alt="Smiley face image"
+style="float:left; width:85px; height:65px;">
 <span style="vertical-align:bottom">
-&nbsp <strong>  Beca - Programa para Mujeres Programadoras</strong> <br>
-&nbsp  Coding Dojo - Banco de Chile <br>
-&nbsp 2022
+&nbsp <strong>  Banco de Chile </strong> <br>
+&nbsp Valparaíso, 2022<br><br>
 </span>
 </p>
-<hr size="30">
+
+* Programa Mujeres Programadoras: Coding Dojo y Banco de Chile.
+
+
+
+
+
+### Voluntariado
+
+<p>
+<img src="../../images/about_me/puc.png" alt="Smiley face image"
+style="float:left; width:91px; height:91px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> Charlista</strong> <br>
+&nbsp DUOC UC <br>
+&nbsp 2024 <br><br>
+</span>
+</p>
+
+
+<p>
+<img src="../../images/about_me/pythonchile.png" alt="Smiley face image"
+style="float:left; width:91px; height:91px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> Tallerista</strong> <br>
+&nbsp Python Chile <br>
+&nbsp 2024 <br><br>
+</span>
+</p>
+
+

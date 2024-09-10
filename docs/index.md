@@ -1,31 +1,52 @@
-# Acerca de Mi
-<p>
-<img src="images/yo.png" alt="Smiley face image"
-style="float:left; width:200px; height:200px;">
-<span style="vertical-align:bottom"><br>
-&nbsp &nbsp <strong> Ingeniera en Bioprocesos </strong> <br>
-&nbsp &nbsp Actualmente me encuentro en mi camino <br>
-&nbsp &nbsp a ser programadora (Data Scientist), <br>
-&nbsp &nbsp por lo que he invertido mucho de mi tiempo <br>
-&nbsp &nbsp en aprender a programar y estudiar conceptos teóricos.
-</span>
-</p>
-&nbsp;
+# Personal Portfolio
 
-## Información de Contacto
+### Hola 👋 Soy Valeska Canales
 
-<a href="https://github.com/vcanalesp"><img alt="Link" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://gitlab.com/vcanalesp"><img alt="Link" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://www.linkedin.com/in/vcanalesp/"><img alt="Link" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-<a href="https://vcanalesp.github.io/portafolio/"><img alt="Link" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png" style="float:left; padding-right:10px " width="60" height="50" ></a>
-&nbsp;
-&nbsp;
+### 👑 Acerca de mí
 
-&nbsp;
+::cards:: cols=5
 
-- **Name**: Valeska Canales Pozo
-- **Phone**: +56 9 8459 5078
-- **Email**: valeska.canales.p@gmail.com
-- **Curriculum Vitae**: [link](https://gitlab.com/vcanalesp/cv/-/jobs/3209363097/artifacts/file/cv_espanol.pdf)
+- title: Presentación 
+  content: Información Personal
+  image: images/icons/hi.png
+  url: ./about_me/me/
+
+- title: Educación
+  content: Educación, Certificaciones
+  image: images/icons/book.png
+  url: ./about_me/education/
+
+- title: Experiencia
+  content: Experiencia laboral
+  image: images/icons/work.png
+  url: ./about_me/work_exp/
+
+
+- title: Más Info
+  content: Reconocimientos, Voluntariado
+  image: images/icons/star.png
+  url: ./about_me/awards/
+
+
+::/cards::
+
+### 🚀️ Portfolio
+
+::cards:: cols=4
+
+- title: Charlas y más
+  content: Sobre mis charlas e investigaciones
+  image: images/icons/idea.png
+  url: ./research/research/
+
+- title: Proyectos
+  content: Sobre mis proyectos personales 
+  image: images/icons/project.png
+  url: ./projects/
+
+
+
+::/cards::
+
 
 
