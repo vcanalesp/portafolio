@@ -37,7 +37,7 @@
 - title: Charlas y más
   content: Sobre mis charlas e investigaciones
   image: images/icons/idea.png
-  url: ./research/research/
+  url: ./research/talks/
 
 - title: Proyectos
   content: Sobre mis proyectos personales 
