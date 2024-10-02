@@ -3,7 +3,7 @@
 
 * **Profesión**: 📊 Ingeniera en Bioprocesos
 * **Trabajo actual**: 
-    * 💻 Asistente Programadora (Independiente)
+    * 💻 Consultor (DataDomz)
     * 🗨️ Charlista (DUOC UC)
 
 ### Intereses

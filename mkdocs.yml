@@ -43,7 +43,7 @@ theme:
   name: dracula
   language: es
   logo: images/yo.png
-  favicon: images/logo_sn3.png
+  favicon: images/logo_sn.png
 
 
 # Plugins

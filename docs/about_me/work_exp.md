@@ -3,12 +3,30 @@
 ### Experiencia Laboral
 
 <p>
+<img src="../../images/about_me/datadomz.png" alt="Imagen de asistente programadora"
+style="float:left; width:65px; height:65px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> Consultor</strong> <br>
+&nbsp DataDomz <br>
+&nbsp Oct 2024 – Presente
+</span>
+</p>
+
+Coordino proyectos de consultoría de datos, alineando soluciones tecnológicas con los objetivos del cliente.
+
+
+* Desarrollo de modelos predictivos de machine learning para mejorar la toma de decisiones basada en datos.
+* Creación de dashboards interactivos con Streamlit, facilitando la visualización y análisis de resultados.
+* Asesoría en la integración de estrategias de ciencia de datos para optimizar procesos empresariales.
+<br>
+
+<p>
 <img src="../../images/about_me/laptop.png" alt="Imagen de asistente programadora"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
-&nbsp <strong> Asistente Programadora</strong> <br>
+&nbsp <strong> Consultor</strong> <br>
 &nbsp Independiente <br>
-&nbsp Abr 2020 – Presente
+&nbsp Abr 2020 – Sep 2024
 </span>
 </p>
 

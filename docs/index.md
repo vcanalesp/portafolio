@@ -1,4 +1,4 @@
-# Personal Portfolio
+# Portafolio Personals
 
 ### Hola 👋 Soy Valeska Canales
 

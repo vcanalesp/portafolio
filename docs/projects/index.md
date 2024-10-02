@@ -1,6 +1,29 @@
 ## Proyectos
 
-### [Telco - Análisis de Churn](https://github.com/vcanalesp/telco_streamlit)
+### [Leyes de Ciberseguridad y Protección de Datos](https://leyes-data-chile.streamlit.app/)
+
+<p>
+  <a href="https://github.com/vcanalesp/st_laws">
+    <img src="../images/research/law.png"
+      style="float:left; width:120px; height:120px;">
+  </a>
+  <span style="vertical-align:bottom">
+    <br> &nbsp;🐍 Python<br>
+    &nbsp;🧪 Data Science <br>
+    &nbsp;📅 Oct 01, 2024 <br> <br> 
+  </span>
+</p>
+
+
+El objetivo de este proyecto es presentar, mediante una aplicación interactiva en **Streamlit**, los artículos clave de la **Ley Marco de Ciberseguridad** y la **Ley de Protección de Datos Personales**, junto con resúmenes claros y ejercicios prácticos para que los usuarios puedan aprender de forma dinámica.
+
+
+* Puedes acceder a la aplicación web interactiva en el siguiente enlace: [Aplicativo](https://leyes-data-chile.streamlit.app/). 
+* El código fuente del proyecto está disponible en el repositorio oficial: [GitHub](https://github.com/vcanalesp/st_laws).
+
+
+
+### [Telco - Análisis de Churn](https://telcoapp-fd9zbanm736f8egconj6ws.streamlit.app/)
 
 <p>
   <a href="https://github.com/vcanalesp/telco_streamlit">
@@ -16,10 +39,12 @@
 
 
 
-El objetivo de este proyecto es analizar y predecir la tasa de churn (abandono) en clientes de telecomunicaciones. Utilizando técnicas de análisis de datos y modelado predictivo, el proyecto emplea herramientas como Python, Pandas y Scikit-learn para explorar el comportamiento de los clientes, identificar patrones asociados al abandono y desarrollar un modelo de predicción. A través de este flujo de trabajo, se busca proporcionar insights accionables para reducir la tasa de churn y mejorar la retención de clientes.
+El proyecto busca predecir y analizar el churn en clientes de telecomunicaciones. Utilizando **Python**, **Pandas**, **Scikit-learn** y una aplicación interactiva en **Streamlit**, se exploran patrones de comportamiento, desarrollando un modelo predictivo que ofrece insights clave para reducir el abandono y mejorar la retención de clientes.
 
-* Puedes acceder a la aplicación web interactiva en el siguiente enlace: [Telco Churn App](https://telcoapp-fd9zbanm736f8egconj6ws.streamlit.app/). 
-* El código fuente del proyecto está disponible en el repositorio oficial: [GitHub - Telco Streamlit](https://github.com/vcanalesp/telco_streamlit).
+
+
+* Puedes acceder a la aplicación web interactiva en el siguiente enlace: [Aplicativo](https://telcoapp-fd9zbanm736f8egconj6ws.streamlit.app/). 
+* El código fuente del proyecto está disponible en el repositorio oficial: [GitHub](https://github.com/vcanalesp/telco_streamlit).
 
 
 
