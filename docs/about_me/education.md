@@ -2,6 +2,20 @@
 
 <p>
 <a href="">
+<img src="../../images/about_me/usm.png" alt="Smiley face image"
+style="float:left; width:90px; height:90px;">
+</a>
+<span style="vertical-align:bottom">
+&nbsp <strong> Diplomado</strong> <br>
+&nbsp Diplomado en Inteligencia Artificial para Educación <br>
+&nbsp Universidad Técnica Federico Santa María <br>
+&nbsp 2024 - 2025
+</span>
+</p>
+<hr size="30">
+
+<p>
+<a href="">
 <img src="../../images/about_me/cd_03.png" alt="Smiley face image"
 style="float:left; width:90px; height:90px;">
 </a>

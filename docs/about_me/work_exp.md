@@ -3,6 +3,25 @@
 ### Experiencia Laboral
 
 <p>
+<img src="../../images/about_me/logo_sn2.png" alt="Imagen de asistente programadora"
+style="float:left; width:65px; height:65px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> Fundadora</strong> <br>
+&nbsp Seth&Nut <br>
+&nbsp Oct 2024 – Presente
+</span>
+</p>
+
+
+Somos un equipo apasionado por la enseñanza y la innovación, comprometido con brindar recursos educativos accesibles, de alta calidad y adaptados a todos los niveles de experiencia.
+
+- **Aprendizaje práctico:** Hacemos accesible la programación y las matemáticas para todos.
+- **Cursos y talleres:** Ofrecemos formación estructurada y especializada.  
+- **Charlas y eventos:** Inspiramos a través de conferencias con expertos.  
+- **Material educativo:** Publicamos guías y artículos claros y útiles.  
+- **Actividades interactivas:** Fomentamos el aprendizaje dinámico con retos y proyectos.  
+
+<p>
 <img src="../../images/about_me/datadomz.png" alt="Imagen de asistente programadora"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">

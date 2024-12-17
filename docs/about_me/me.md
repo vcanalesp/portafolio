@@ -3,7 +3,7 @@
 
 * **Profesión**: 📊 Ingeniera en Bioprocesos
 * **Trabajo actual**: 
-    * 💻 Consultor (DataDomz)
+    * 💻 Fundadora (Seth&Nut)
     * 🗨️ Charlista (DUOC UC)
 
 ### Intereses

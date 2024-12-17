@@ -3,12 +3,25 @@
 ### Charlas
 
 <p>
+<a href="https://www.canva.com/design/DAGYPvNs9HY/vDIv8hMUpoqN9M2aLhzvKA/view?utm_content=DAGYPvNs9HY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he1bb6cde0a">
+    <img src="../../images/research/talk.png"
+      style="float:left; width:65px; height:65px;">
+</a>
+<span style="vertical-align:bottom">
+&nbsp <a href="https://www.canva.com/design/DAGYPvNs9HY/vDIv8hMUpoqN9M2aLhzvKA/view?utm_content=DAGYPvNs9HY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he1bb6cde0a">Data Storytelling + A.I.<br>
+&nbsp Canales, V., Alfaro,F., (2024). UC.
+</span>
+</p>
+
+<hr size="30">
+
+<p>
 <a href="https://fralfaro.github.io/MADS-Workshops/">
     <img src="../../images/research/talk.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <a href="https://fralfaro.github.io/MADS-Workshops/">MADS Workshops - Noviembre 2024</a> (Soon)<br>
+&nbsp <a href="https://fralfaro.github.io/MADS-Workshops/">MADS Workshops - Noviembre 2024<br>
 &nbsp Canales, V., Alfaro,F., (2024). UTFSM-MADS.
 </span>
 </p>
@@ -21,7 +34,7 @@
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <a href="https://fralfaro.github.io/DMAT-SJ-Olimpiadas/"> Matemáticas Divertidas con Python</a> (Soon)<br>
+&nbsp <a href="https://fralfaro.github.io/DMAT-SJ-Olimpiadas/"> Matemáticas Divertidas con Python <br>
 &nbsp Canales, V., Alfaro,F., (2024). UTFSM-DMAT.
 </span>
 </p>
@@ -34,35 +47,22 @@
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <a href="https://fralfaro.github.io/DMAT-SJ-Olimpiadas/">Integración de Python en la Enseñanza de Matemáticas</a> (Soon)<br>
+&nbsp <a href="https://fralfaro.github.io/DMAT-SJ-Olimpiadas/">Integración de Python en la Enseñanza de Matemáticas<br>
 &nbsp  Canales, V., Alfaro,F., (2024). UTFSM-DMAT.
 </span>
 </p>
 
-<hr size="30">
-
-
-<p>
-<a href="https://github.com/Seth-Nut/resources/tree/main/files">
-    <img src="../../images/research/talk.png"
-      style="float:left; width:65px; height:65px;">
-</a>
-<span style="vertical-align:bottom">
-&nbsp <a href="https://github.com/Seth-Nut/resources/tree/main/files">De los Números a la Narrativa</a> (Soon)<br>
-&nbsp  Canales, V., Alfaro,F., (2024). DUOC UC.
-</span>
-</p>
 
 <hr size="30">
 
 
 <p>
-<a href="https://github.com/Seth-Nut/resources/tree/main/files">
+<a href="https://github.com/Seth-Nut/resources/blob/main/files/2024_10_16_ley_proteccion_datos.pdf">
     <img src="../../images/research/talk.png"
       style="float:left; width:65px; height:65px;">
 </a>
 <span style="vertical-align:bottom">
-&nbsp <a href="https://github.com/Seth-Nut/resources/tree/main/files">Entendiendo la Ley de Protección de Datos</a> (Soon)<br>
+&nbsp <a href="https://github.com/Seth-Nut/resources/blob/main/files/2024_10_16_ley_proteccion_datos.pdf">Entendiendo la Ley de Protección de Datos<br>
 &nbsp  Canales, V., Alfaro,F., (2024). DUOC UC.
 </span>
 </p>

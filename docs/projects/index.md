@@ -1,6 +1,6 @@
 ## Proyectos
 
-### [Leyes de Ciberseguridad y Protección de Datos](https://leyes-data-chile.streamlit.app/)
+### [Ley Protección de Datos](https://ley-datos-personales.streamlit.app/)
 
 <p>
   <a href="https://github.com/vcanalesp/st_laws">
@@ -15,11 +15,11 @@
 </p>
 
 
-El objetivo de este proyecto es presentar, mediante una aplicación interactiva en **Streamlit**, los artículos clave de la **Ley Marco de Ciberseguridad** y la **Ley de Protección de Datos Personales**, junto con resúmenes claros y ejercicios prácticos para que los usuarios puedan aprender de forma dinámica.
+El objetivo de este proyecto es presentar, mediante una aplicación interactiva en **Streamlit**, los artículos clave de la **Ley de Protección de Datos Personales**, junto con resúmenes claros y ejercicios prácticos para que los usuarios puedan aprender de forma dinámica.
 
 
-* Puedes acceder a la aplicación web interactiva en el siguiente enlace: [Aplicativo](https://leyes-data-chile.streamlit.app/). 
-* El código fuente del proyecto está disponible en el repositorio oficial: [GitHub](https://github.com/vcanalesp/st_laws).
+* Puedes acceder a la aplicación web interactiva en el siguiente enlace: [Aplicativo](https://ley-datos-personales.streamlit.app/). 
+* Puedes acceder a la aplicación de Quarto en el siguiente enlace: [Quarto Book](https://seth-nut.github.io/st_proteccion_datos/).
 
 
 
