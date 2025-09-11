@@ -3,6 +3,17 @@
 ### Reconocimientos
 
 <p>
+<img src="../../images/about_me/talento.jpg" alt="Smiley face image"
+style="float:left; width:85px; height:52px;">
+<span style="vertical-align:bottom">
+&nbsp <strong>  Talento Digital </strong> <br>
+&nbsp Valparaíso, 2025 <br>
+</span>
+</p>
+
+* Beca Desbloquea un mejor futuro – Talento Digital + SENCE
+
+<p>
 <img src="../../images/about_me/inacap.png" alt="Smiley face image"
 style="float:left; width:85px; height:52px;">
 <span style="vertical-align:bottom">

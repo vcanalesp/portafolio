@@ -2,9 +2,11 @@
 
 
 * **Profesión**: 📊 Ingeniera en Bioprocesos
+    * Especialista en Educación + A.I.
+    * Especialista en Educación Universitaria
 * **Trabajo actual**: 
     * 💻 Fundadora (Seth&Nut)
-    * 🗨️ Charlista (DUOC UC)
+    * 🗨️ Charlista (UTFSM)
 
 ### Intereses
 
