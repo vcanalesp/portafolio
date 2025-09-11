@@ -49,10 +49,9 @@ style="float:left; width:91px; height:91px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Charlista</strong> <br>
 &nbsp DUOC UC <br>
-&nbsp 2024 <br><br>
+&nbsp 2025 - 2024 <br><br>
 </span>
 </p>
-
 
 <p>
 <img src="../../images/about_me/pythonchile.png" alt="Smiley face image"
@@ -60,8 +59,19 @@ style="float:left; width:91px; height:91px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Tallerista</strong> <br>
 &nbsp Python Chile <br>
-&nbsp 2024 <br><br>
+&nbsp 2025 - 2024 <br><br>
 </span>
 </p>
+
+<p>
+<img src="../../images/about_me/techschool.png" alt="Smiley face image"
+style="float:left; width:91px; height:91px;">
+<span style="vertical-align:bottom">
+&nbsp <strong> Tallerista</strong> <br>
+&nbsp TechSchool <br>
+&nbsp 2025 <br><br>
+</span>
+</p>
+
 
 
