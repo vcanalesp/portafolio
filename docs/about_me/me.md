@@ -28,7 +28,7 @@
 
 - **Email**: valeska.canales.p@gmail.com
 - **Sitios web**: [Portfolio](https://vcanalesp.github.io/portfolio/)
-- **Curriculum Vitae**: [link](https://gitlab.com/vcanalesp/cv)
+- **Curriculum Vitae**: [link](https://drive.google.com/file/d/1Slix3N9LiZOFpFywxUvgv0bDHlzNVc5c/view?usp=drive_link)
 
 
 
