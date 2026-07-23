@@ -1,7 +1,7 @@
 # Volunteering
 
 <p>
-<img src="../images/js.png" alt="Smiley face image"
+<img src="../../images/js.png" alt="Smiley face image"
 style="float:left; width:91px; height:91px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Speaker</strong> <br>
@@ -11,7 +11,7 @@ style="float:left; width:91px; height:91px;">
 </p>
 
 <p>
-<img src="../images/pythonchile.png" alt="Smiley face image"
+<img src="../../images/pythonchile.png" alt="Smiley face image"
 style="float:left; width:91px; height:91px;">
 <span style="vertical-align:bottom">
 &nbsp <strong> Coordination</strong> <br>

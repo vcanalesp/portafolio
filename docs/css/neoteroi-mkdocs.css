@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap');
 
 /**
  *  All CSS for the neoteroi.projects.gantt extension.
@@ -9,13 +9,17 @@
   --md-default-bg-color: #1e1e1e;
   --md-default-fg-color: #d4d4d4;
   --md-default-fg-color--light: #cccccc;
+  --md-default-fg-color--lighter: #8c8c8c;
+  --md-default-fg-color--lightest: #6a6a6a;
   --md-primary-fg-color: #252526;
   --md-primary-bg-color: #ffffff;
   --md-accent-fg-color: #569cd6;
   --md-accent-bg-color: #264f78;
   --md-typeset-a-color: #569cd6;
-  --md-code-bg-color: #2d2d2d;
+  --md-code-bg-color: #1e1e1e;
   --md-code-fg-color: #d4d4d4;
+  --md-text-font: "Inter", "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  --md-code-font: "JetBrains Mono", "Cascadia Code", Consolas, monospace;
   --nt-color-0: #CD853F;
   --nt-color-1: #B22222;
   --nt-color-2: #000080;
@@ -159,17 +163,26 @@
 body {
   background-color: var(--md-default-bg-color);
   color: var(--md-default-fg-color);
+  font-family: var(--md-text-font);
 }
 
 .md-header,
 .md-tabs {
-  background-color: var(--md-primary-fg-color);
+  background-color: #252526;
   color: var(--md-primary-bg-color);
+  border-bottom: 1px solid #3c3c3c;
 }
 
 .md-sidebar--primary,
 .md-sidebar--secondary {
   background-color: #252526;
+  color: var(--md-default-fg-color);
+  border-right: 1px solid #3c3c3c;
+}
+
+.md-nav__title,
+.md-nav__link,
+.md-search__input {
   color: var(--md-default-fg-color);
 }
 
@@ -186,14 +199,27 @@ body {
 .md-typeset h3,
 .md-typeset h4 {
   color: #4ec9b0;
-  font-family: 'Segoe Print', 'Monotype Corsiva', 'Lucida Handwriting', 'Brush Script MT', cursive !important;
-  letter-spacing: 0.02em;
+  font-family: var(--md-text-font) !important;
+  font-weight: 700;
+  letter-spacing: 0.01em;
 }
 
 .md-typeset code,
 .md-typeset pre {
-  background-color: var(--md-code-bg-color);
+  background-color: #1e1e1e;
   color: var(--md-code-fg-color);
+  border: 1px solid #3c3c3c;
+  font-family: var(--md-code-font);
+}
+
+.md-typeset pre {
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,0.03);
+}
+
+.md-footer {
+  background-color: #252526;
+  color: var(--md-default-fg-color);
+  border-top: 1px solid #3c3c3c;
 }
 
 :root {
