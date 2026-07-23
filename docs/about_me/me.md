@@ -54,9 +54,9 @@ Python • SQL • Git • Docker • Kedro • PostgreSQL • ChatGPT • Micro
 ### Contact Information
 
 <p align="left"> 
-<a href="https://www.github.com/vcanalesp" target="_blank" rel="noreferrer"><img src="../images/about_me/gh.png" width="42" height="42" /></a>
-<a href="https://gitlab.com/vcanalesp" target="_blank" rel="noreferrer"><img src="../images/about_me/gitlab.png" width="42" height="42" /></a>
-<a href="https://www.linkedin.com/in/vcanalesp" target="_blank" rel="noreferrer"><img src="../images/about_me/in.png" width="42" height="42" /></a> 
+<a href="https://www.github.com/vcanalesp" target="_blank" rel="noreferrer"><img src="/portafolio/images/about_me/gh.png" width="42" height="42" /></a>
+<a href="https://gitlab.com/vcanalesp" target="_blank" rel="noreferrer"><img src="/portafolio/images/about_me/gitlab.png" width="42" height="42" /></a>
+<a href="https://www.linkedin.com/in/vcanalesp" target="_blank" rel="noreferrer"><img src="/portafolio/images/about_me/in.png" width="42" height="42" /></a> 
 </p>
 
 - **Email**: valeska.canales.p@gmail.com
