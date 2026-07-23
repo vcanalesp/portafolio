@@ -1,139 +1,103 @@
 ### Educación
 
-<p>
-<a href="">
-<img src="../../images/about_me/usm.png" alt="Smiley face image"
-style="float:left; width:90px; height:90px;">
-</a>
-<span style="vertical-align:bottom">
-&nbsp <strong> Diplomado</strong> <br>
-&nbsp Diplomado en Docencia Universitaria <br>
-&nbsp Universidad Técnica Federico Santa María <br>
-&nbsp 2024 - 2025
-</span>
-</p>
-<hr size="30">
-
-<p>
-<a href="">
-<img src="../../images/about_me/usm.png" alt="Smiley face image"
-style="float:left; width:90px; height:90px;">
-</a>
-<span style="vertical-align:bottom">
-&nbsp <strong> Diplomado</strong> <br>
-&nbsp Diplomado en Inteligencia Artificial para Educación <br>
-&nbsp Universidad Técnica Federico Santa María <br>
-&nbsp 2024 - 2025
-</span>
-</p>
-<hr size="30">
-
-<p>
-<a href="">
-<img src="../../images/about_me/sence.png" alt="Smiley face image"
-style="float:left; width:90px; height:90px;">
-</a>
-<span style="vertical-align:bottom">
-&nbsp <strong> Bootcamp</strong> <br>
-&nbsp Especialidad Ciencia de Datos <br>
-&nbsp Talento Digital + SENCE <br>
-&nbsp 2024 - 2025
-</span>
-</p>
-<hr size="30">
-
-<p>
-<a href="">
-<img src="../../images/about_me/cd_03.png" alt="Smiley face image"
-style="float:left; width:90px; height:90px;">
-</a>
-<span style="vertical-align:bottom">
-&nbsp <strong> Bootcamp</strong> <br>
-&nbsp Desarrollador Full-Stack <br>
-&nbsp Coding Dojo <br>
-&nbsp 2022
-</span>
-</p>
-<hr size="30">
 
 
+<div style="display: flex; align-items: center; margin-bottom: 30px; gap: 20px;">
+<img src="../images/about_me/usm.png" alt="Universidad Técnica Federico Santa María" style="width: 90px; height: 90px; object-fit: contain; flex-shrink: 0;">
+<div>
+<strong>Diplomado</strong><br>
+Diplomado en Docencia Universitaria<br>
+Universidad Técnica Federico Santa María<br>
+2024 - 2025
+</div>
+</div>
 
-<p>
-<a href="">
-<img src="../../images/about_me/pucv.png" alt="Smiley face image"
-style="float:left; width:90px; height:90px;">
-</a>
-<span style="vertical-align:bottom">
-&nbsp <strong> Licenciatura</strong> <br>
-&nbsp Ingeniera de Ejecución en Bioprocesos <br>
-&nbsp Pontificia Universidad Católica de Valparaíso <br>
-&nbsp 2009 - 2014
-</span>
-</p>
-<hr size="30">
+<div style="display: flex; align-items: center; margin-bottom: 30px; gap: 20px;">
+<img src="../images/about_me/usm.png" alt="Universidad Técnica Federico Santa María" style="width: 90px; height: 90px; object-fit: contain; flex-shrink: 0;">
+<div>
+<strong>Diplomado</strong><br>
+Diplomado en Inteligencia Artificial para Educación<br>
+Universidad Técnica Federico Santa María<br>
+2024 - 2025
+</div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 30px; gap: 20px;">
+<img src="../images/about_me/talento.jpg" alt="Talento Digital - Especialidad Ciencia de Datos" style="width: 90px; height: 90px; object-fit: contain; flex-shrink: 0;">
+<div>
+<strong>Bootcamp - Especialidad Ciencia de Datos</strong><br>
+Talento Digital + SENCE<br>
+2024 - 2025
+</div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 30px; gap: 20px;">
+<img src="../images/about_me/cd_03.png" alt="Coding Dojo" style="width: 90px; height: 90px; object-fit: contain; flex-shrink: 0;">
+<div>
+<strong>Bootcamp</strong><br>
+Desarrollador Full-Stack<br>
+Coding Dojo<br>
+2022
+</div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 30px; gap: 20px;">
+<img src="../images/about_me/pucv.png" alt="Pontificia Universidad Católica de Valparaíso" style="width: 90px; height: 90px; object-fit: contain; flex-shrink: 0;">
+<div>
+<strong>Licenciatura</strong><br>
+Ingeniera de Ejecución en Bioprocesos<br>
+Pontificia Universidad Católica de Valparaíso<br>
+2009 - 2014
+</div>
+</div>
 
 
 
 
 ### Certificaciones
 
-<p>
-  <img src="../../images/about_me/aws.png" alt="Smiley face image"
-    style="float:left; width:55px; height:55px;">
-  <span style="vertical-align:bottom">
-    &nbsp;<strong>AWS Academy Graduate </strong><br>
-    &nbsp;Online Certifications
-  </span>
-</p>
-
+<div style="display: flex; align-items: center; margin-bottom: 25px; gap: 15px;">
+<img src="../images/about_me/aws.png" alt="AWS Academy" style="width: 55px; height: 55px; object-fit: contain; flex-shrink: 0;">
+<div>
+<strong>AWS Academy Graduate</strong><br>
+Online Certifications
+</div>
+</div>
 
 * AWS Academy Cloud Foundations
 
-<hr size="30">
-
-
-<p>
-  <img src="../../images/about_me/dlai.png" alt="Smiley face image"
-    style="float:left; width:55px; height:55px;">
-  <span style="vertical-align:bottom">
-    &nbsp;<strong>DeepLearning.AI </strong><br>
-    &nbsp;Online Certifications
-  </span>
-</p>
-
+<div style="display: flex; align-items: center; margin-bottom: 25px; gap: 15px;">
+<img src="../images/about_me/dlai.png" alt="DeepLearning.AI" style="width: 55px; height: 55px; object-fit: contain; flex-shrink: 0;">
+<div>
+<strong>DeepLearning.AI</strong><br>
+Online Certifications
+</div>
+</div>
 
 * Machine Learning
 
-<hr size="30">
-
-
-
-<p>
-  <img src="../../images/about_me/coursera.png" alt="Smiley face image"
-    style="float:left; width:55px; height:55px;">
-  <span style="vertical-align:bottom">
-    &nbsp;<strong>Coursera</strong><br>
-    &nbsp;Online Certifications
-  </span>
-</p>
+<div style="display: flex; align-items: center; margin-bottom: 25px; gap: 15px;">
+<img src="../images/about_me/coursera.png" alt="Coursera" style="width: 55px; height: 55px; object-fit: contain; flex-shrink: 0;">
+<div>
+<strong>Coursera</strong><br>
+Online Certifications
+</div>
+</div>
 
 * Introduction to Data Science in Python
-
-<br>
 
 ### Stack
 
 #### Lenguajes & Frameworks
 
-<p>
-<img alt="Link" src="../../images/about_me/python.png" style="float:left; padding-right:10px " width="50" height="50" >
-<img alt="Link" src="../../images/about_me/jupyter.png" style="float:left; padding-right:10px " width="50" height="50" >
-<img alt="Link" src="../../images/about_me/streamlit.png" style="float:left; padding-right:10px " width="50" height="50" >
-<img alt="Link" src="../../images/about_me/openai.png" style="float:left; padding-right:10px " width="50" height="50" >
-</p>
-<br>
-&nbsp;
-&nbsp;
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; margin-bottom: 30px;">
+<img alt="Python" src="../images/about_me/python.png" style="width: 60px; height: 60px; object-fit: contain;">
+<img alt="Jupyter" src="../images/about_me/jupyter.png" style="width: 60px; height: 60px; object-fit: contain;">
+<img alt="Streamlit" src="../images/about_me/streamlit.png" style="width: 60px; height: 60px; object-fit: contain;">
+<img alt="OpenAI" src="../images/about_me/openai.png" style="width: 60px; height: 60px; object-fit: contain;">
+</div>
+
+
 
 
 
@@ -141,22 +105,18 @@ style="float:left; width:90px; height:90px;">
 
 
 #### Cloud
-<p>
-<img alt="Link" src="../../images/about_me/google.png" style="float:left; padding-right:10px " width="50" height="50" >
-<img alt="Link" src="../../images/about_me/aws.png" style="float:left; padding-right:10px " width="50" height="30" >
-<img alt="Link" src="../../images/about_me/azure.png" style="float:left; padding-right:10px " width="50" height="50" >
-</p>
-&nbsp;
-&nbsp;
+
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; margin-bottom: 30px;">
+<img alt="Google Cloud" src="../images/about_me/google.png" style="width: 60px; height: 60px; object-fit: contain;">
+<img alt="AWS" src="../images/about_me/aws.png" style="width: 60px; height: 60px; object-fit: contain;">
+<img alt="Azure" src="../images/about_me/azure.png" style="width: 60px; height: 60px; object-fit: contain;">
+</div>
 
 
 #### Herramientas y más
 
-<p>
-<img alt="Link" src="../../images/about_me/git.png" style="float:left; padding-right:10px " width="50" height="50" >
-<img alt="Link" src="../../images/about_me/pycharm.png" style="float:left; padding-right:10px " width="50" height="50" >
-<img alt="Link" src="../../images/about_me/vs.png" style="float:left; padding-right:10px " width="50" height="50" >
-</p>
-<br>
-&nbsp;
-&nbsp;
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+<img alt="Git" src="../images/about_me/git.png" style="width: 60px; height: 60px; object-fit: contain;">
+<img alt="PyCharm" src="../images/about_me/pycharm.png" style="width: 60px; height: 60px; object-fit: contain;">
+<img alt="Visual Studio Code" src="../images/about_me/vs.png" style="width: 60px; height: 60px; object-fit: contain;">
+</div>
