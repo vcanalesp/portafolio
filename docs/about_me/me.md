@@ -53,10 +53,10 @@ Python • SQL • Git • Docker • Kedro • PostgreSQL • ChatGPT • Micro
 
 ### Contact Information
 
-<p align="left">
-  <a href="https://github.com/vcanalesp" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://gitlab.com/vcanalesp" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
-  <a href="https://www.linkedin.com/in/vcanalesp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<p align="left"> 
+<a href="https://www.github.com/vcanalesp" target="_blank" rel="noreferrer"><img src="../../images/about_me/gh.png" width="42" height="42" /></a>
+<a href="https://gitlab.com/vcanalesp" target="_blank" rel="noreferrer"><img src="../../images/about_me/gitlab.png" width="42" height="42" /></a>
+<a href="https://www.linkedin.com/in/vcanalesp" target="_blank" rel="noreferrer"><img src="../../images/about_me/in.png" width="42" height="42" /></a> 
 </p>
 
 - **Email**: valeska.canales.p@gmail.com
