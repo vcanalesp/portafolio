@@ -2,7 +2,7 @@
 
 ### Científica de Datos | Ingeniera en Bioprocesos
 
-**Especializada en Inteligencia Artificial aplicada a Educación Superior**
+**Especializada en Inteligencia Artificial aplicada a Educación Universitaria**
 
 Desarrollo soluciones de IA, Machine Learning y analítica para apoyar la toma de decisiones, optimizar procesos y transformar datos en herramientas útiles para las personas.
 

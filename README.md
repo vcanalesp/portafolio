@@ -6,4 +6,6 @@
 <img src="docs/images/valeska.png" alt="Girl in a jacket" width="300" >
 
 
-Actualmente, estoy avanzando en mi camino para convertirme en programadora, enfocándome en Ciencia de Datos. He dedicado considerablemente mi tiempo en el aprendizaje de programación, profundizando en herramientas específicas de machine learning, explorando técnicas de inteligencia artificial, y desarrollando habilidades en visualización de datos mediante plataformas como Streamlit para alcanzar esta meta.
+No me interesa solo aprender nuevas tecnologías; me interesa entender lo que pueden revelar.
+
+Mi camino hacia la Ciencia de Datos ha estado marcado por la curiosidad, el aprendizaje constante y el deseo de convertir información en decisiones inteligentes. Entre modelos de Machine Learning, aplicaciones interactivas y visualizaciones, sigo descubriendo que siempre hay una mejor pregunta... y casi siempre una respuesta inesperada.
