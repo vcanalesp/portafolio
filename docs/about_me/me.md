@@ -55,13 +55,15 @@ Python • SQL • Git • Docker • Kedro • PostgreSQL • ChatGPT • Micro
 
 <p align="left">
   <a href="https://github.com/vcanalesp">
-    <img src="./images/about_me/gh.png" width="42" alt="GitHub">
+    <img src="/portafolio/images/about_me/gh.png" width="42" alt="GitHub">
   </a>
+
   <a href="https://gitlab.com/vcanalesp">
-    <img src="./images/about_me/gitlab.png" width="42" alt="GitLab">
+    <img src="/portafolio/images/about_me/gitlab.png" width="42" alt="GitLab">
   </a>
+
   <a href="https://linkedin.com/in/vcanalesp">
-    <img src="./images/about_me/in.png" width="42" alt="LinkedIn">
+    <img src="/portafolio/images/about_me/in.png" width="42" alt="LinkedIn">
   </a>
 </p>
 
